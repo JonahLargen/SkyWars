@@ -1,0 +1,37 @@
+name: SurvivalGames
+version: 1.0
+description: SG
+main: me.jonah.SG.Main
+commands:
+  setwins:
+  setcredits:
+  addcredits:
+  createarena:
+  stoparena:
+  pk:
+  lobby:
+  addspawn:
+  pos1:
+  pos2:
+  leave:
+  credits:
+  leaderboard:
+  stats:
+  ss:
+  join:
+  sgreload:
+  bm:
+  center:
+  get:
+  commands:
+  clearlag:
+  dxp:
+  forcestart:
+  pkreset:
+  left:
+  tlive:
+  tclear:
+  tleaderboard:
+  
+  
+
